@@ -146,3 +146,15 @@ Data Collection
 
 ---
 
+## Dashboard
+
+![Dashboard](Dashboard.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](ConfusionMatrix.png)
+
+## Feature Importance
+
+
+
