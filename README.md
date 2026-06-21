@@ -1,5 +1,8 @@
 # Customer Churn Prediction & Analytics
 
+#Live Demo
+https://customer-churn-predictive-modell.streamlit.app/
+
 ## Project Overview
 
 Customer churn is one of the most critical business challenges for subscription-based companies. This project combines Business Intelligence, SQL Analytics, Machine Learning, and Streamlit Deployment to identify customers at risk of leaving and provide actionable insights for retention strategies.
